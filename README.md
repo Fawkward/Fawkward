@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project<br>🌱 I’m currently learning C++ <br>💬 Glad to see new people<br>
+🔭 I’m currently working on my projects<br>🌱 I’m currently learning C++ <br>💬 Glad to see new people<br>
 
 
 ## 🌐 Socials:
